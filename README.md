@@ -1,6 +1,6 @@
 # Hi, I'm Daven H Waay👋
 
-I'm a **BSIT student** who's persevering and have a very positive outlook on life, no matter what comes my way.
+I'm a **BSIT major** who's persevering and have a very positive outlook on life, no matter what comes my way.
 I’ve learned a few programming languages and database management both in school and through self-study. Some of the languages I’ve worked with include:
 
 - Python
