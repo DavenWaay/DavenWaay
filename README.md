@@ -10,7 +10,7 @@ I’ve learned a few programming languages and database management both in schoo
 - C++
 - Phyton
 
-I’d say I’m at an **intermediate level**—I get the basics and how things function but know there’s still plenty to explore and experience.
+I’d say I’m at an **intermediate level**, I get the basics and how things function but know there’s still plenty to explore and experience.
 Right now, I’m experimenting with different languages and frameworks, figuring out what feels right for me, and working toward becoming a better programmer.
 
 ### Hobbies & Interests
