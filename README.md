@@ -13,7 +13,7 @@ Through academic work and hands-on development, I’ve gained experience designi
 - **REST APIs**
 - **GitHub** (version control)
 
-I’m comfortable working across the **frontend, backend, and database layers**, and I’ve taken on roles involving **project coordination, system design, and implementation**. My current focus is on **strengthening my foundations**, improving **code quality**, and continuing to build **meaningful projects that solve real problems**.
+I’m comfortable working across the **frontend, backend, and database layers**, and I’ve taken on roles involving **project coordination, system research and documentation, and implementation**. My current focus is on **strengthening my foundations**, improving **code quality**, and continuing to build **meaningful projects that solve real problems**.
 
 ## 🎯 Hobbies & Interests
 
