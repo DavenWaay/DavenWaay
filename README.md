@@ -1,22 +1,23 @@
-# Hi, I'm Daven H Waay👋
+# Hi, I'm Daven H. Waay 👋
 
-I'm a **BSIT major** who's persevering and have a very positive outlook on life, no matter what comes my way.
-I’ve learned a few programming languages and database management both in school and through self-study. Some of the languages I’ve worked with include:
+I’m a **BSIT student** with a strong interest in building **practical, real-world systems and applications**. I’m adaptable, quick to learn, and driven to contribute effectively in **team-based projects**.
 
-- React
-- Java
-- HTML, CSS
-- PHP
-- C++
-- Phyton
+Through academic work and hands-on development, I’ve gained experience designing and implementing **full-stack applications**, including **mobile and web systems**. I’ve worked on projects such as an **interactive learning application for early learners**, a **population management system for a local barangay**, and multiple academic systems focused on **RESTful APIs** and **database integration**.
 
-I’d say I’m at an **intermediate level**, I get the basics and how things function but know there’s still plenty to explore and experience.
-Right now, I’m experimenting with different languages and frameworks, figuring out what feels right for me, and working toward becoming a better programmer.
+## 🛠️ Technologies & Tools
 
-### Hobbies & Interests
+- **React & React Native**
+- **JavaScript & TypeScript**
+- **HTML, CSS**
+- **Firebase, MongoDB**
+- **REST APIs**
+- **GitHub** (version control)
+
+I’m comfortable working across the **frontend, backend, and database layers**, and I’ve taken on roles involving **project coordination, system design, and implementation**. My current focus is on **strengthening my foundations**, improving **code quality**, and continuing to build **meaningful projects that solve real problems**.
+
+## 🎯 Hobbies & Interests
 
 When I’m not coding, you can find me:
-
 - Playing chess ♟️
 - Hitting the gym 🏋️
 - Reading 📚
