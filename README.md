@@ -9,7 +9,7 @@ I’m comfortable working across the **frontend, backend, and database layers**,
 Currently preparing for graduation and open to internship and entry-level opportunities where I can learn, contribute, and grow as an IT professional.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/daven-w-606647286/))
 
 ## 💻 Tech Stack
 
