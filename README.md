@@ -8,7 +8,8 @@ I’m comfortable working across the **frontend, backend, and database layers**,
 
 Currently preparing for graduation and open to internship and entry-level opportunities where I can learn, contribute, and grow as an IT professional.
 
-## 🌐 Socials
+## 🌐 Website and Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-purple?style=flat&logo=vercel&logoColor=white)](https://davenwaayportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daven-w-606647286/)
 
 ## 💻 Tech Stack
