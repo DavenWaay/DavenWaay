@@ -1,4 +1,4 @@
-# Hi, I'm Daven H. Waay 👋
+# Hi, I'm Daven H. Waay!
 
 I’m a **BSIT student** with a strong interest in building **practical, real-world systems and applications**. I’m adaptable, quick to learn, and driven to contribute effectively in **team-based projects**.
 
