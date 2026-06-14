@@ -6,8 +6,6 @@ Through academic work and hands-on development, I’ve gained experience designi
 
 I’m comfortable working across the **frontend, backend, and database layers**, and I’ve taken on roles involving **project coordination, system research and documentation, and implementation**. My current focus is on **strengthening my foundations**, improving **code quality**, and continuing to build **meaningful projects that solve real problems**.
 
-Currently preparing for graduation and open to internship and entry-level opportunities where I can learn, contribute, and grow as an IT professional.
-
 ## 🌐 Website and Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-purple?style=flat&logo=vercel&logoColor=white)](https://davenwaayportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daven-w-606647286/)
