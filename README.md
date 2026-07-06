@@ -1,6 +1,6 @@
 # Hi, I'm Daven H. Waay!
 
-I’m a **BSIT student** with a strong interest in building **practical, real-world systems and applications**. I’m adaptable, quick to learn, and driven to contribute effectively in **team-based projects**.
+I’m a **BSIT graduate** with a strong interest in building **practical, real-world systems and applications**. I’m adaptable, quick to learn, and driven to contribute effectively in **team-based projects**.
 
 Through academic work and hands-on development, I’ve gained experience designing and implementing **full-stack applications**, including **mobile and web systems**. I’ve worked on projects such as an **interactive learning application for early learners**, a **population management system for a local barangay**, and multiple academic systems focused on **RESTful APIs** and **database integration** that served as **hands-on familiarization**.
 
